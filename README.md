@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Aditya Kumar
 
-🎯 **Senior Android Engineer** with 8+ years of experience building scalable Android apps in Fintech, IoT, and E-learning domains. Passionate about performance, UI/UX, and clean architecture.
+🎯 **Senior Android Engineer** with 8+ years of experience building scalable Android apps in Fintech,E-learning and Supply chain/Logistics domains. Passionate about performance, UI/UX, and clean architecture.
 
-- 🔭 Currently working at **Motive**, building driver-facing apps & internal tools
+- 🔭 Currently working at **Motive**, building driver-facing apps & AI augmented internal tools
 - 📱 Expert in **Kotlin**, **Jetpack Compose**, **Modular Architecture**
 - 🌱 Learning more about **DevOps** & **Kotlin Multiplatform**
 - ✍️ Writing clean, testable code with **Hilt**, **Coroutines**, **Flow**, and **Compose**
