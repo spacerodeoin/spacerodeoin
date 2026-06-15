@@ -1,6 +1,6 @@
 # Aditya Kumar
 
-**Senior Android Engineer · Shipping fast without breaking things for users at scale**
+**Senior Android Engineer · Shipping fast for users at scale**
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
